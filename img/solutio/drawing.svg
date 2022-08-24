@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100mm"
-   height="100mm"
-   viewBox="0 0 100 100"
+   width="160mm"
+   height="90mm"
+   viewBox="0 0 160 90"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -46,7 +46,7 @@
        x2="106.37327"
        y2="-3.7417734"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.90779812,0,0,0.91911764,3.660615,3.1718604)" />
+       gradientTransform="matrix(1.4389822,0,0,0.81686445,6.1535388,3.0565216)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -55,19 +55,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="205.37695"
-     inkscape:cy="209.20945"
+     inkscape:zoom="1.4"
+     inkscape:cx="327.61431"
+     inkscape:cy="140.98247"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-bbox="false"
-     inkscape:window-width="1920"
+     inkscape:window-width="1902"
      inkscape:window-height="1111"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -85,192 +85,194 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:url(#linearGradient1177);fill-opacity:1;stroke:none;stroke-width:0.790126;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient1177);fill-opacity:1;stroke:none;stroke-width:0.937819;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1169"
-       width="100.44748"
-       height="100.22607"
-       x="-0.22141424"
-       y="-0.26726952"
-       ry="3.96875" />
+       width="160"
+       height="90"
+       x="1.2490009e-15"
+       y="6.8278716e-15"
+       ry="3.5272207" />
     <path
        id="rect835-9"
-       style="fill:#82f6a5;fill-opacity:1;stroke:none;stroke-width:0.530745;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 4.8934778,27.941758 c -1.8293729,0 -3.3021904,1.311032 -3.3021904,2.939817 0,1.628787 1.4728175,2.940118 3.3021904,2.940118 H 39.304818 v -5.879935 z" />
+       style="fill:#82f6a5;fill-opacity:1;stroke:none;stroke-width:0.600175;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
+       d="m 18.2861,23.202489 c -2.339294,0 -4.222644,1.311032 -4.222644,2.939817 0,1.628787 1.88335,2.940118 4.222644,2.940118 h 44.003148 v -5.879935 z" />
     <path
        id="rect835-9-9"
-       style="fill:#f19074;fill-opacity:1;stroke:none;stroke-width:0.483915;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 39.304818,27.941758 v 5.880239 h 55.479746 c 1.520778,0 2.745152,-1.311336 2.745152,-2.940118 0,-1.628785 -1.224374,-2.940121 -2.745152,-2.940121 z" />
-    <rect
-       style="fill:none;stroke:#ffffff;stroke-width:0.500804;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect835"
-       width="95.93837"
-       height="5.8800945"
-       x="1.5373956"
-       y="27.941612"
-       ry="2.9400473" />
+       style="fill:#f19074;fill-opacity:1;stroke:none;stroke-width:0.536644;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 62.305952,23.118663 v 5.880239 h 68.229088 c 1.87026,0 3.37599,-1.311336 3.37599,-2.940118 0,-1.628785 -1.50573,-2.940121 -3.37599,-2.940121 z" />
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.294705"
-       x="22.207518"
-       y="26.457493"
+       x="46.007477"
+       y="21.634703"
        id="text861"><tspan
          sodipodi:role="line"
          id="tspan859"
-         x="22.207518"
-         y="26.457493"
+         x="46.007477"
+         y="21.634703"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.294705">Ouder betaald 50 euro</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.233289"
-       x="16.178741"
-       y="32.365509"
+       x="33.907043"
+       y="27.542719"
        id="text865"><tspan
          sodipodi:role="line"
          id="tspan863"
-         x="16.178741"
-         y="32.365509"
+         x="33.907043"
+         y="27.542719"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.233289">€20</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.233289"
-       x="64.147957"
-       y="32.361275"
+       x="93.839188"
+       y="27.538485"
        id="text865-8"><tspan
          sodipodi:role="line"
          id="tspan863-9"
-         x="64.147957"
-         y="32.361275"
+         x="93.839188"
+         y="27.538485"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.233289">€30</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.153184"
-       x="5.9081683"
-       y="36.929276"
+       x="23.636467"
+       y="32.106483"
        id="text861-5"><tspan
          sodipodi:role="line"
          id="tspan859-2"
-         x="5.9081683"
-         y="36.929276"
+         x="23.636467"
+         y="32.106483"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.153184">Lesgever ontvangt</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.153184"
-       x="50.389652"
-       y="37.011826"
+       x="80.080879"
+       y="32.189034"
        id="text861-3"><tspan
          sodipodi:role="line"
          id="tspan859-4"
-         x="50.389652"
-         y="37.011826"
+         x="80.080879"
+         y="32.189034"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.153184">Bijles bureau ontvangt</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.568714"
-       x="21.402508"
-       y="15.74007"
+       x="45.202469"
+       y="10.917279"
        id="text861-6"><tspan
          sodipodi:role="line"
          id="tspan859-5"
-         x="21.402508"
-         y="15.74007"
+         x="45.202469"
+         y="10.917279"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.568714">Traditioneel</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.87778px;line-height:1.25;font-family:sans-serif;stroke-width:0.568714"
-       x="32.924892"
-       y="68.840919"
+       x="56.724854"
+       y="64.018127"
        id="text861-6-8"><tspan
          sodipodi:role="line"
          id="tspan859-5-8"
-         x="32.924892"
-         y="68.840919"
+         x="56.724854"
+         y="64.018127"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.568714">Solutio</tspan><tspan
          sodipodi:role="line"
-         x="32.924892"
-         y="81.188141"
+         x="56.724854"
+         y="76.365349"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.568714"
          id="tspan1079" /></text>
     <path
        id="rect835-9-0"
-       style="fill:#82f6a5;fill-opacity:1;stroke:none;stroke-width:0.678947;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 7.7093921,80.980117 c -2.9936621,0 -5.4038412,1.311032 -5.4038412,2.939818 0,1.628787 2.4101791,2.940118 5.4038412,2.940118 H 64.021541 v -5.879936 z" />
+       style="fill:#82f6a5;fill-opacity:1;stroke:none;stroke-width:0.870866;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 18.714016,76.224143 c -4.925314,0 -4.65732,1.311032 -4.65732,2.939818 0,1.628787 -0.267994,2.940118 4.65732,2.940118 h 96.880724 v -5.879936 z"
+       sodipodi:nodetypes="sssccs" />
     <path
        id="rect835-9-9-5"
-       style="fill:#f19074;fill-opacity:1;stroke:none;stroke-width:0.368686;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 64.021541,80.980117 v 5.880239 H 96.22567 c 0.882759,0 1.59347,-1.311335 1.59347,-2.940116 0,-1.628787 -0.710711,-2.940123 -1.59347,-2.940123 z" />
-    <rect
-       style="fill:none;stroke:#ffffff;stroke-width:0.500804;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect835-2"
-       width="95.93837"
-       height="5.8800945"
-       x="2.2516615"
-       y="80.97998"
-       ry="2.9400473" />
+       style="fill:#f19074;fill-opacity:1;stroke:none;stroke-width:0.273095;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 115.35081,76.157326 v 5.880239 l 16.36663,-0.03341 c 0.48435,-9.88e-4 2.09108,-1.280207 2.17724,-2.906707 0.0668,-1.261291 -1.79315,-2.733703 -2.27747,-2.739671 z"
+       sodipodi:nodetypes="ccsssc" />
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.294705"
-       x="22.207512"
-       y="76.850021"
+       x="52.236088"
+       y="72.027229"
        id="text861-32"><tspan
          sodipodi:role="line"
          id="tspan859-49"
-         x="22.207512"
-         y="76.850021"
+         x="52.236088"
+         y="72.027229"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.294705">Ouder betaald 30 euro</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.233289"
-       x="28.911169"
-       y="85.40387"
+       x="60.572052"
+       y="80.581078"
        id="text865-2"><tspan
          sodipodi:role="line"
          id="tspan863-5"
-         x="28.911169"
-         y="85.40387"
+         x="60.572052"
+         y="80.581078"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.233289">€25</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.233289"
-       x="77.973946"
-       y="85.397514"
+       x="121.67723"
+       y="80.574722"
        id="text865-8-9"><tspan
          sodipodi:role="line"
          id="tspan863-9-4"
-         x="77.973946"
-         y="85.397514"
+         x="121.67723"
+         y="80.574722"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.233289">€5</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.153184"
-       x="18.623661"
-       y="90.629105"
+       x="50.284542"
+       y="85.806313"
        id="text861-5-2"><tspan
          sodipodi:role="line"
          id="tspan859-2-0"
-         x="18.623661"
-         y="90.629105"
+         x="50.284542"
+         y="85.806313"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.153184">Lesgever ontvangt</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.153184"
-       x="62.892727"
-       y="90.711655"
+       x="106.59601"
+       y="85.888863"
        id="text861-3-6"><tspan
          sodipodi:role="line"
          id="tspan859-4-8"
-         x="62.892727"
-         y="90.711655"
+         x="106.59601"
+         y="85.888863"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.153184">Bijles bureau ontvangt</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.294705"
-       x="47.62933"
-       y="51.316216"
+       x="71.650146"
+       y="46.493423"
        id="text861-32-1"><tspan
          sodipodi:role="line"
          id="tspan859-49-8"
-         x="47.62933"
-         y="51.316216"
+         x="71.650146"
+         y="46.493423"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.294705">vs</tspan></text>
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.580949;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect835"
+       width="120"
+       height="5.8438644"
+       x="14.020818"
+       y="23.136938"
+       ry="2.9219322" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.580949;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect835-99"
+       width="120"
+       height="5.8438644"
+       x="14.020818"
+       y="76.175362"
+       ry="2.9219322" />
   </g>
 </svg>

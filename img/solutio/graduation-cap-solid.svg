@@ -14,6 +14,13 @@
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    width="2800"
    height="512">
+  <rect
+     style="opacity:0.578275;fill:#55fabe;stroke-width:8.87055;stroke-linecap:round;stroke-linejoin:bevel"
+     id="rect833"
+     width="3552.4121"
+     height="931.94171"
+     x="-478.86667"
+     y="650.68817" />
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +29,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,37 +44,61 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1111"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="0.50754247"
-     inkscape:cx="1372.8432"
-     inkscape:cy="120.45041"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="0.71777344"
+     inkscape:cx="1129.4441"
+     inkscape:cy="616.91349"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0"
      showguides="false" />
   <!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
-  <g
-     id="g839"
-     transform="translate(38.482163,-0.00875)">
-    <path
-       d="M 623.1,136.9 340.4,35.7 c -13.73,-4.91 -28.7,-4.91 -42.43,0 L 16.05,136.9 C 6.438,140.4 0,149.6 0,160 c 0,10.4 6.438,19.65 16.05,23.09 L 76.07,204.6 C 64.18,220.4 55.81,238.76 51.52,258.55 40.05,263.4 32,274.8 32,288 c 0,9.953 4.814,18.49 11.94,24.36 l -24.83,149 C 17.48,471.1 25,480 34.89,480 h 58.22 c 9.887,0 17.41,-8.879 15.78,-18.63 l -24.83,-149 C 91.19,306.5 96,297.1 96,288 c 0,-10.29 -5.174,-19.03 -12.72,-24.89 4.252,-17.76 12.88,-33.82 24.94,-47.03 l 190.6,68.23 c 13.73,4.91 28.7,4.91 42.43,0 l 282.7,-101.2 C 633.6,179.6 640,170.4 640,160 c 0,-10.4 -6.4,-19.6 -16.9,-23.1 z m -272,177.5 c -9.4,3.7 -20.2,5.6 -31.1,5.6 -10.92,0 -21.69,-1.867 -32,-5.555 L 142.8,262.5 128,405.3 c 0,41.3 85.1,74.7 192,74.7 105.1,0 192,-33.4 192,-74.67 l -14.78,-142.9 z"
-       id="path2"
-       style="fill:#ffffff;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:571.031px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:38.9339"
-       x="738.13531"
-       y="469.57434"
-       id="text834"><tspan
-         sodipodi:role="line"
-         id="tspan832"
-         x="738.13531"
-         y="469.57434"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;fill-opacity:1;stroke-width:38.9339">Solutio</tspan></text>
-  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:571.031px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:38.9339"
+     x="776.61749"
+     y="469.56558"
+     id="text834"><tspan
+       sodipodi:role="line"
+       id="tspan832"
+       x="776.61749"
+       y="469.56558"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;fill-opacity:1;stroke-width:38.9339">Solutio</tspan></text>
+  <path
+     sodipodi:type="star"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.16485;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path1415-8-3-2"
+     sodipodi:sides="6"
+     sodipodi:cx="63.610146"
+     sodipodi:cy="120.27129"
+     sodipodi:r1="65.051445"
+     sodipodi:r2="32.525723"
+     sodipodi:arg1="0.78539816"
+     sodipodi:arg2="1.3089969"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     transform="matrix(3.6513485,-0.97837596,0.97837596,3.6513485,77.778213,-120.91776)"
+     d="M 109.60846,166.26961 46.773593,183.10616 0.77527486,137.10785 17.611828,74.272976 80.446698,57.436423 126.44502,103.43474 Z" />
+  <path
+     sodipodi:type="star"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.16485;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path1932-5"
+     sodipodi:sides="6"
+     sodipodi:cx="63.610146"
+     sodipodi:cy="120.27129"
+     sodipodi:r1="65.051445"
+     sodipodi:r2="32.525723"
+     sodipodi:arg1="0.78539816"
+     sodipodi:arg2="1.3089969"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     transform="matrix(2.8315483,0.758711,-0.758711,2.8315483,338.84752,-132.81568)"
+     d="M 109.60846,166.26961 46.773593,183.10616 0.77527486,137.10785 17.611828,74.272976 80.446698,57.436423 126.44502,103.43474 Z" />
 </svg>
