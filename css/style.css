@@ -97,11 +97,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top {
+  display: none; 
   position: fixed;
-  display: none;
+  z-index: 99;
+  border: none;
+  outline: none; 
+  cursor: pointer;
   background: linear-gradient(45deg, #1de099, #1dc8cd);
   color: #fff;
-  padding: 2px 20px 8px 20px;
+  padding: 0px 20px 8px 20px;
   font-size: 16px;
   border-radius: 4px 4px 0 0;
   right: 15px;
@@ -126,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 #header {
   padding: 30px 0;
   height: 92px;
-  position: fixed;
+  position: absolute;
   left: 0;
   top: 0;
   right: 0;
@@ -377,7 +381,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Mobile Nav Toggle */
 #mobile-nav-toggle {
-  position: fixed;
+  position: absolute;
   right: 0;
   top: 0;
   z-index: 999;
@@ -403,7 +407,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Mobile Nav Styling */
 #mobile-nav {
-  position: fixed;
+  position: absolute;
   top: 0;
   padding-top: 18px;
   bottom: 0;
