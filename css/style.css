@@ -1097,8 +1097,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 1;
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
-  letter-spacing: 3px;
-  text-transform: uppercase;
+  /* letter-spacing: 2px; */
+  /* text-transform: uppercase; */
   color: #1dc8cd;
 }
 
