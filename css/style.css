@@ -1,3 +1,62 @@
+/* Buttons */
+.btn-white {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.btn-white:hover {
+  color: #1dc8cd;
+  background: #fff;
+}
+
+.btn-color {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  border: 2px solid #fff;
+  color: #fff;
+  background: #1de099;
+}
+
+.btn-color:hover {
+  background: #1dc8cd;
+  color: #fff;
+}
+
+.btn-header {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  border: 2px solid #fff;
+  color: #fff;
+}
+.btn-header:hover {
+  background: #1dc8cd;
+  color: #fff;
+}
+
+
 /*
   Theme Name: Avilon
   Theme URL: https://bootstrapmade.com/avilon-bootstrap-landing-page-template/
@@ -37,7 +96,6 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 
-/* Back to top button */
 .back-to-top {
   position: fixed;
   display: none;
@@ -76,32 +134,13 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
 }
 
-#header #logo {
-  float: left;
-}
-
-#header #logo h1 {
-  font-size: 36px;
-  margin: -4px 0 0 0;
-  padding: 0;
-  line-height: 1;
-  display: inline-block;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 300;
-  letter-spacing: 3px;
-  text-transform: uppercase;
-}
-
-#header #logo h1 a, #header #logo h1 a:hover {
-  color: #fff;
-}
-
-#header #logo img {
+.logo {
   padding: 0;
   margin: 0;
 }
 
-@media (max-width: 768px) {
+
+@media (max-width: 1000px) {
   #header #logo h1 {
     font-size: 28px;
     margin-top: 0;
@@ -109,6 +148,7 @@ h1, h2, h3, h4, h5, h6 {
   #header #logo img {
     max-height: 40px;
   }
+  #
 }
 
 #header.header-fixed {
@@ -132,6 +172,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 10%;
   text-align: center;
   vertical-align: top;
+  position: relative;
 }
 
 @media (max-height: 768px) {
@@ -183,73 +224,24 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-#intro .btn-get-started {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 8px 28px;
-  border-radius: 50px;
-  transition: 0.5s;
-  margin: 10px;
-  border: 2px solid #fff;
-  color: #fff;
-}
-
-#intro .btn-get-started:hover {
-  color: #1dc8cd;
-  background: #fff;
-}
-
-#advanced-features .btn-support {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 8px 28px;
-  border-radius: 50px;
-  transition: 0.5s;
-  margin: 10px;
-  border: 2px solid #fff;
-  color: #fff;
-  background: #1de099;
-}
-
-#advanced-features .btn-support:hover {
-  background: #1dc8cd;
-  color: #fff;
-}
-
 #intro .banner {
-  position: absolute;
+  /* position: absolute; */
   left: 0;
   right: 0;
   bottom: 0;
   overflow: hidden;
-  padding-top: 0px;
-  text-align: center;
-  width: 100%;
-  height: 530px;
-}
-
-#intro .banner {
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  overflow: hidden;
-  padding-top: 30px;
+  /* padding-top: 30px; */
   text-align: center;
   width: 100%;
   height: 60%;
 }
 
 #intro .banner img {
-  position: relative
+  position: relative;
+  max-width: 60%;
+  max-height: 40%;
+  /* padding: 5%; */
 }
-
 
 @media (max-height: 768px) {
   #intro .banner {
@@ -334,7 +326,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   #nav-menu-container {
     display: none;
   }
@@ -404,7 +396,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   #mobile-nav-toggle {
     display: inline;
   }
@@ -715,13 +707,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 0 100px 100px 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 100px) {
   #advanced-features .advanced-feature-img-right, #advanced-features .advanced-feature-img-left {
     max-width: 50%;
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 100px) {
   #advanced-features .advanced-feature-img-right, #advanced-features .advanced-feature-img-left {
     max-width: 100%;
     float: none;
