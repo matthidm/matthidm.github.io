@@ -38,22 +38,24 @@
   color: #fff;
 }
 
-.btn-header {
+.nav-btn {
   font-family: "Montserrat", sans-serif;
-  font-weight: 400;
+  text-align: right; 
+  color:white;
+  font-weight: 500;
+  letter-spacing: 2px;
   font-size: 16px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 8px 28px;
-  border-radius: 50px;
+  padding: 8px 15px;
+  border-radius: 30px;
   transition: 0.5s;
-  margin: 10px;
-  border: 2px solid #fff;
-  color: #fff;
+  margin: 5px;
+  /* border: 2px solid #fff; */ 
 }
-.btn-header:hover {
-  background: #1dc8cd;
-  color: #fff;
+
+.nav-btn:hover {
+  background: white;
+  color: #1dc8cd;
+
 }
 
 
@@ -385,7 +387,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   top: 0;
   z-index: 999;
-  margin: 20px 20px 0 0;
+  /* margin: 20px 20px 0 0; */
   border: 0;
   background: none;
   font-size: 24px;
@@ -472,7 +474,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   top: 0;
   left: 0;
-  position: fixed;
+  position: relative;
   background: rgba(52, 59, 64, 0.9);
   display: none;
 }
