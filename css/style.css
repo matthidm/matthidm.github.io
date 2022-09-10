@@ -174,27 +174,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro .intro-text {
-  padding-top: 10%;
+  padding-top: 180px;
   text-align: center;
   vertical-align: top;
   position: relative;
 }
 
-@media (max-height: 768px) {
-  #intro .intro-text {
-    padding-top: 80px;
-  }
-}
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   #intro .intro-text {
-    padding-top: 180px;
-  }
-}
-
-@media (max-width: 767px) {
-  #intro .intro-text {
-    padding-top: 50px;
+    padding-top: 40%;
   }
 }
 
