@@ -171,21 +171,22 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: linear-gradient(45deg, #1de099, #1dc8cd);
   position: relative;
+  padding-top: 150px;
 }
 
 #intro .intro-text {
-  padding-top: 180px;
+  /* padding-top: 180px; */
   text-align: center;
   vertical-align: top;
   position: relative;
 }
 
 
-@media (max-width: 1000px) {
+/* @media (max-width: 1000px) {
   #intro .intro-text {
     padding-top: 40%;
   }
-}
+} */
 
 #intro h2 {
   margin: 30px 0 10px 0;
