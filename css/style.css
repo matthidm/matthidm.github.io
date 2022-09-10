@@ -1000,7 +1000,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team .member .pic {
   margin-bottom: 15px;
   overflow: hidden;
-  height: 260px;
+  aspect-ratio: 1;
 }
 
 #team .member .pic img {
