@@ -33,9 +33,12 @@
   <header id="header">
     <div class="container">
       <div id="logo" class="pull-left">
-        <a href="./index.html">
-          <img src="img/solutio/graduation-cap-solid.svg" height="28px" alt="" title="" /></img>
-        </a>
+        <a href="./index.html" class="scrollto">
+          <img src="img/solutio/favicon.svg" height="50px" alt="" title=""/></img>
+          <h1 style="color:white; display: inline;vertical-align: middle;">
+            Solutio
+          </h1>
+          </a>
       </div>
       <nav style="text-align: right;">
         <a href="#support-teacher" class="nav-btn">Login</a>
@@ -45,7 +48,6 @@
   </header>
 
   <section id="intro">
-    <div style = "position:relative; top:-60px;">
     <div class="intro-text">
       <h2>Welkom bij Solutio</h2>
       <p>Start een eigen Tribe</p>
@@ -53,13 +55,13 @@
     <div class="banner">
       <div data-aos="fade-up" data-aos-delay="100">
         <img src="img/solutio/badge-banner.svg" alt="">
-      </br>
+      </div>
+      <div class="info">
         <a href="#about" class="btn-white scrollto">
           <img src="./img/solutio/arrow-text.svg" style="width: 40px;">
           Meer info
         </a>
       </div>
-    </div>
     </div>
   </section>
 
@@ -277,31 +279,27 @@
           </div> -->
 
           <div class="col-lg-6 col-md-9">
-            <div class="box featured" data-aos="fade-up">
-              <h3>Volledige begeleiding</h3>
-              <h4><sup>€ </sup>121 <span>of </span> <sup>€ </sup>161<sup>* </sup><span> / maand</span></h4>
+            <div class="box" data-aos="fade-up">
+              <h3>Eenmans tribe</h3>
+              <h4><sup>€ </sup>60<span> / maand</span></h4>
               <ul>
                 <li><i class="fa fa-desktop"></i>  Digitaal Platform</li>
                 <li><i class="fa fa-rocket"></i>  Begeleid opstart </li>
-                <li><i class="fa fa-graduation-cap"></i>Begeleid didactiek</li>
-                <li><i class="fa fa-user"></i>  Klantenbestand</li>
-                <li><i class="ion-plus-round"></i> <sup><h4>*</h4> </sup>Renteloze lening voor dekking opstartkosten. Meerprijs geldt enkel gedurende de eerste 10 maanden</li>
               </ul>
               <a href="#" class="get-started-btn">Kies</a>
             </div>
           </div>
 
           <div class="col-lg-6 col-md-9">
-            <div class="box" data-aos="fade-left">
-              <h3>Volledige begeleiding +</h3>
-              <h4><sup>€ </sup>161<span> / maand</span></h4>
+            <div class="box featured" data-aos="fade-left">
+              <h3>Normale tribe</h3>
+              <h4><sup>€ </sup>121<span> / maand</span></h4>
               <ul>
                 <li><i class="fa fa-desktop"></i> Digitaal Platform</li>
                 <li><i class="fa fa-rocket"></i> Begeleid opstart </li>
                 <li><i class="fa fa-graduation-cap"></i> Begeleid didactiek</li>
                 <li><i class="fa fa-user"></i> Klantenbestand</li>
-                <li><i class="ion-plus-round"></i> Renteloze lening voor dekking opstartkosten</li>
-                <li><i class="ion-plus-round"></i> *Meerprijs is enkel gedurende de eerste 10 maanden*</li>
+                <li><i class="ion-plus-round"></i> Optionele additionele renteloze lening voor dekking opstartkosten</li>
               </ul>
               <a href="#" class="get-started-btn">Kies</a>
             </div>
@@ -313,15 +311,17 @@
 
     <section id="clients">
       <div class="container">
-
+        <div class="section-header">
+          <h3 class="section-title">Featured</h3>
+          <span class="section-divider"></span>
+        </div>
         <div class="row">
-
           <div class="col-md-2">
             <img src="img/clients/ILIAKO.png" alt=""  data-aos="fade-up">
           </div>
 
           <div class="col-md-2">
-            <img src="img/clients/client-2.png" alt=""  data-aos="fade-up">
+            <img src="img/clients/uvabijlessen.png" alt=""  data-aos="fade-up">
           </div>
 
           <div class="col-md-2">
@@ -344,7 +344,7 @@
       </div>
     </section>
 
-    <!-- <section id="faq" class="section-bg">
+    <section id="faq" class="section-bg">
       <div class="container ">
 
         <div class="section-header">
@@ -411,11 +411,8 @@
         </ul>
 
       </div>
-    </section> -->
+    </section>
 
-    <!--==========================
-      Contact Section
-    ============================-->
     <section id="contact">
       <div class="container">
         <div class="row" data-aos="fade-up">
@@ -441,15 +438,15 @@
                 <p>België</p>
               </div> -->
 
-              <!-- <div>
+              <div>
                 <i class="ion-ios-email-outline"></i>
-                <p>info@example.com</p>
-              </div> -->
+                <p>info@solutio-vlaanderen.be</p>
+              </div>
 
-              <!-- <div>
+              <div>
                 <i class="ion-ios-telephone-outline"></i>
-                <p>+1 5589 55488 55s</p>
-              </div> -->
+                <p>+32 479 54 33 06</p>
+              </div>
 
             </div>
           </div>
@@ -474,7 +471,7 @@
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Heb je een vraag omtrent een eigen tribe starten? Aarzel niet om ons te contacteren! Type hier jouw vraag."></textarea>
+                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Heb je een vraag? Aarzel niet om ons te contacteren! Type hier jouw vraag."></textarea>
                   <div class="validation"></div>
                 </div>
                 <div class="text-center"><button type="submit" title="Send Message">Verstuur</button></div>
@@ -485,28 +482,17 @@
         </div>
 
       </div>
-    </section><!-- #contact -->
+    </section>
 
   </main>
 
-  <!--==========================
-    Footer
-  ============================-->
   <footer id="footer">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 text-lg-left text-center">
           <div class="copyright">
             &copy; Copyright <strong>Solutio</strong>. All Rights Reserved
-          </div>
-          <div class="credits">
-            <!--
-              All the links in the footer should remain intact.
-              You can delete the links only if you purchased the pro version.
-              Licensing information: https://bootstrapmade.com/license/
-              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Avilon
-            -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </br>
           </div>
         </div>
         <!-- <div class="col-lg-6">
@@ -519,9 +505,9 @@
         </div> -->
       </div>
     </div>
-  </footer><!-- #footer -->
+  </footer>
 
-  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <!-- <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a> -->
 
   <!-- JavaScript Libraries -->
   <script src="lib/jquery/jquery.min.js"></script>
