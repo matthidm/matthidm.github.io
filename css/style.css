@@ -851,6 +851,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fff;
 }
 
+@media (max-width: 767px) {
+  #clients {
+    display: none;
+  }
+  
+}
+
 #clients img {
   width: 100%;
   opacity: 0.5;
