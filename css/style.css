@@ -538,12 +538,19 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .about-img {
   height: 510px;
   overflow: hidden;
+
 }
 
 #about .about-img img {
-  margin-left: -15px;
+  /* margin-left: -15px; */
   max-width: 100%;
-  padding: 0 0 100px 100px;
+  /* padding: 0 0 100px 100px; */
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -ms-transform: translate(-40%, -50%);
+  transform: translate(-40%, -50%);
 }
 
 @media (max-width: 768px) {
