@@ -1007,19 +1007,19 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
 }
 
-#team .member .social {
+.social {
   margin-top: 15px;
 }
 
-#team .member .social a {
+.social a {
   color: #b3b3b3;
 }
 
-#team .member .social a:hover {
+.social a:hover {
   color: #1dc8cd;
 }
 
-#team .member .social i {
+.social i {
   font-size: 18px;
   margin: 0 2px;
 }
