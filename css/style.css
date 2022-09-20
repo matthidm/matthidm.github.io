@@ -187,19 +187,9 @@ h2 {
     text-align: center;
     width: 100%;
   }
-
-  .custom-nav {
-    padding-top:60px;
-    text-align: center;
-
-  }
   #header {
     height: 250px;
   }
-  #intro {
-    padding-top: 40%;
-  }
-
 }
 
 #header.header-fixed {
@@ -218,6 +208,13 @@ h2 {
   background: linear-gradient(45deg, #1de099, #1dc8cd);
   position: relative;
   padding-top: 10%;
+}
+
+@media (max-width: 1000px) {
+  #intro {
+    padding-top: 40%;
+  }
+
 }
 
 #intro .centered-banner {
@@ -342,6 +339,10 @@ h2 {
   text-align: right;
 }
 
+.custom-nav a {
+  width: 140px
+}
+
 /* Nav Menu Essentials */
 .nav-menu, .nav-menu * {
   margin: 0;
@@ -405,6 +406,10 @@ h2 {
 }
 
 @media (max-width: 1000px) {
+  .custom-nav {
+
+  }
+
   #nav-menu-container {
     /* display: none; */
   }
