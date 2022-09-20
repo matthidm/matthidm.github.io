@@ -614,6 +614,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .about-img img {
   /* margin-left: -15px; */
   max-width: 100%;
+  max-height: 80%;
   /* padding: 0 0 100px 100px; */
   margin: 0;
   position: absolute;
@@ -1104,11 +1105,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #888;
 }
 
-#contact .social-links {
+.social-links {
   padding-bottom: 20px;
 }
 
-#contact .social-links a {
+.social-links a {
   font-size: 18px;
   display: inline-block;
   background: #fff;
@@ -1124,7 +1125,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 1px solid #1dc8cd;
 }
 
-#contact .social-links a:hover {
+.social-links a:hover {
   background: #1dc8cd;
   color: #fff;
 }
