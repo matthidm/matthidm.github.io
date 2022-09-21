@@ -210,13 +210,6 @@ h2 {
   padding-top: 10%;
 }
 
-@media (max-width: 1000px) {
-  #intro {
-    padding-top: 40%;
-  }
-
-}
-
 #intro .centered-banner {
   width: 100%;
   position: relative;
@@ -226,8 +219,9 @@ h2 {
   transform: translate(-30%, -40%);
 }
 
+
 #intro .intro-text {
-  /* padding-top: 180px; */
+  /* padding-top: 60px; */
   text-align: center;
   vertical-align: top;
   position: relative;
@@ -309,7 +303,7 @@ h2 {
   }
 }
 
-@media (max-height: 640px) {
+@media (max-height: 700px) {
   #intro .banner img {
     display: none;
   }
@@ -405,15 +399,15 @@ h2 {
   margin: 0;
 }
 
-@media (max-width: 1000px) {
+/* @media (max-width: 1000px) {
   .custom-nav {
 
   }
 
   #nav-menu-container {
-    /* display: none; */
+    display: none;
   }
-}
+} */
 
 /* Nav Meu Styling */
 .nav-menu a {
