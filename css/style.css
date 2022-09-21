@@ -46,7 +46,7 @@
   width: 200px;
 }
 
-.btn-into-info{
+.btn-into-info {
   position: absolute;
     bottom: 3%;
     left: 0;
@@ -311,17 +311,6 @@ h2 {
   #intro .banner img {
     display: none;
   }
-}
-
-@media (max-width: 767px) {
-  #intro .banner {
-    /* height: 400px; */
-  }
-
-  /* #intro .banner img {
-    max-width: 70%;
-  } */
-
 }
 
 @media (max-width: 767px) and (max-height: 639px) {
