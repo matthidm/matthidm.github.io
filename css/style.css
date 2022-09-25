@@ -79,7 +79,6 @@
 
 }
 
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -95,7 +94,7 @@ a {
   transition: 0.5s;
 }
 
-a:hover, a:active, a:focus {
+a:hover, a:active {
   color: #1dc9ce;
   outline: none;
   text-decoration: none;
@@ -769,12 +768,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #advanced-features .advanced-feature-img-right {
   max-width: 100%;
+  max-height: 80%;
   float: right;
   padding: 5%;
 }
 
 #advanced-features .advanced-feature-img-left {
   max-width: 100%;
+  max-height: 80%;
   float: left;
   padding: 5%;
 }
