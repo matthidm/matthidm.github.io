@@ -602,6 +602,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 30px 0;
 }
 
+#about
+
 #about .about-img {
   /* height: 510px; */
   overflow: hidden;
@@ -647,6 +649,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about .content p {
   line-height: 26px;
+  text-align: justify;
 }
 
 #about .content p:last-child {
@@ -758,6 +761,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 24px;
   color: #777;
   margin-bottom: 30px;
+  text-align: justify;
 }
 
 #advanced-features i {
@@ -1144,6 +1148,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 0 0 10px 42px;
   line-height: 28px;
   font-size: 14px;
+}
+
+#contact .info a {
+  color:#333333
 }
 
 #contact .form #sendmessage {
