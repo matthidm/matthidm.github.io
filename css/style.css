@@ -59,6 +59,17 @@
     text-align: center;
 }
 
+.custom-nav {
+  text-align: right;
+  margin-top: 12px; /* vertical allign */
+  color: #fff;
+  /* height: 30px; */
+}
+
+.custom-nav a {
+  width: 140px
+}
+
 .nav-btn {
   font-family: "Montserrat", sans-serif;
   text-align: right; 
@@ -80,9 +91,13 @@
 
 .nav-icon {
   display: none;
+  font-size: 24px;
 }
 
 @media (max-width: 520px) {
+  .custom-nav {
+    margin-top: 0px;
+  }
   .nav-btn {
     display: none;
   }
@@ -235,7 +250,7 @@ h2 {
   height: 100vh;
   background: linear-gradient(45deg, #1de099, #1dc8cd);
   position: relative;
-  padding-top: 10vh;
+  padding-top: 20%;
 }
 
 #intro .intro-with-buttons {
@@ -335,30 +350,22 @@ h2 {
   }
 }
 
-@media (max-height: 500px) {
+@media (max-height: 580px) {
   #intro .banner img {
     display: none;
   }
 }
 
-@media (max-width: 767px) and (max-height: 639px) {
+/* @media (max-width: 767px) and (max-height: 639px) {
   #intro .banner {
     height: 300px;
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
-.custom-nav {
-  text-align: right;
-  margin-top: 12px; /* vertical allign */
-  color: #fff;
-}
 
-.custom-nav a {
-  width: 140px
-}
 
 /* Nav Menu Essentials */
 .nav-menu, .nav-menu * {
