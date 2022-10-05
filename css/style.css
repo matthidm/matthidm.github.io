@@ -78,6 +78,21 @@
   color: #1dc8cd;
 }
 
+.nav-icon {
+  display: none;
+}
+
+@media (max-width: 520px) {
+  .nav-btn {
+    display: none;
+  }
+  .nav-icon {
+    display: inline;
+  }
+}
+
+
+
 .vcenter-row{
   display: flex;
   align-items: center;
@@ -338,6 +353,7 @@ h2 {
 .custom-nav {
   text-align: right;
   margin-top: 12px; /* vertical allign */
+  color: #fff;
 }
 
 .custom-nav a {
