@@ -711,6 +711,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .content ul {
   list-style: none;
   padding: 0;
+  padding: 15px;
 }
 
 #about .content ul li {
