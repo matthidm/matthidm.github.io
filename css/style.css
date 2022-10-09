@@ -1283,8 +1283,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .test-img {
-  margin: -30px 10px;
+  /* margin: -30px 10px; */
   position: relative;
   max-width: 22vw;
   max-height: 22vh;
 }
+@media (max-height: 540px) {
+  .test-img {
+    display: none;
+  }
+}
+
