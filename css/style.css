@@ -196,6 +196,25 @@ h2 {
   margin: 0 10px;
 }
 
+.ul-todo {
+  text-indent: -13px;
+  margin-left: 13px;
+}
+
+.ul-icon-card{
+  text-indent: -21px; 
+  margin-left: 42px;
+}
+
+.ul-icon-card i {
+  width: 20px
+}
+
+.text-indent-icon p {
+  margin-left: 70px;
+}
+
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
