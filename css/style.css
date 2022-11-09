@@ -101,7 +101,7 @@
   color: white;
   font-family: "Montserrat", sans-serif;
   text-align: right; 
-  color:black;
+  color:white;
   font-weight: 500;
   letter-spacing: 2px;
   font-size: 16px;
@@ -118,6 +118,7 @@
 
 .card-img {
   width: 100px;
+  margin-bottom: 30px;
   /* height: 50px; */
 }
 
@@ -1127,10 +1128,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 #faq #faq-list {
   padding: 0;
   list-style: none;
-}
-
-#faq #faq-list li {
-  border-bottom: 1px solid #ddd;
 }
 
 #faq #faq-list a {
