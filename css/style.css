@@ -75,10 +75,6 @@
   background-position: center center;   
 }
 
-.card-intro ::after{
-  /* image-rendering: url(/img/solutio/hexagon\ -\ contour.png); */
-}
-
 .card-intro .a{
   color: var(--secondary-color);
 }
@@ -94,8 +90,6 @@
   padding-top: 0px;
   }
 }
-
-
 
 .card-link {
   color: white;
@@ -1192,6 +1186,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #team .member .pic img {
   max-width: 100%;
+  max-height: 100%;
+  filter: grayscale(100%);
+  clip-path: url(/img/solutio/hexagon\ -\ contour.svg);
+  clip-path: polygon(50% 0%, 
+                     90% 20%, 100% 60%, 
+                     75% 100%, 25% 100%, 
+                     0% 60%, 10% 20%)
 }
 
 #team .member h4 {
