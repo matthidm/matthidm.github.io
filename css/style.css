@@ -63,22 +63,20 @@
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 20px 28px;
-  border-radius: 40px;
+  padding: 25px 25px;
+  /* border-radius: 40px; */
+  /* border: 2px solid #fff; */
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #fff;
   color: #fff;
-  /* overflow: hidden; */
-  /* background-color: white;
-  -webkit-clip-path: polygon(10px 0%, calc(100% - 10px) 0%, 100% 10px, 100% calc(100% - 10px), calc(100% - 10px) 100%, 10px 100%, 0% calc(100% - 10px), 0% 10px);
-  clip-path: polygon(10px 0%, calc(100% - 10px) 0%, 100% 10px, 100% calc(100% - 10px), calc(100% - 10px) 100%, 10px 100%, 0% calc(100% - 10px), 0% 10px); */
+  background-image: url(/img/solutio/hexagon\ -\ contour.png);
+  background-size:  100% 100%;
+  background-repeat:   no-repeat;
+  background-position: center center;   
 }
 
 .card-intro ::after{
-  width: 350px;
-  color: rgb(0, 0, 0);
-  border: 2px solid #000;
+  /* image-rendering: url(/img/solutio/hexagon\ -\ contour.png); */
 }
 
 .card-intro .a{
@@ -90,6 +88,14 @@
   /* padding-bottom: 100px; */
   padding: 50px 0 100px 0;
 }
+
+@media (max-width: 800px) {
+.card-banner {
+  padding-top: 0px;
+  }
+}
+
+
 
 .card-link {
   color: white;
