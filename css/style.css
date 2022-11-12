@@ -84,9 +84,9 @@
   background-position: center center;    */
 }
 
-@media (max-width: 1120px){
-  .card-intro-extra{
-    display: none;
+@media (max-width: 1122px){
+  .card-intro{
+    margin: 20px 110px;
   }
 }
 
