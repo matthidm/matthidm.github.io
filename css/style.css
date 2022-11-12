@@ -53,6 +53,9 @@
 .btn-intro {
   width: 200px;
   max-width: 90%;
+}
+
+.btn-intro-fixed {
   margin: auto;
   left: 75px;
   bottom: 30px;
@@ -92,7 +95,7 @@
 
 .card-banner {
   vertical-align: auto;
-  padding: 50px 0 100px 0;
+  padding: 50px 0 150px 0;
 }
 
 @media (max-width: 800px) {
@@ -1381,4 +1384,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   .intro-banner img {
     display: none;
   }
+}
+.checklist {
+  list-style: none;
+}
+
+.checklist li:before {
+  content: '✓';
 }
