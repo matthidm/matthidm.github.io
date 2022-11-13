@@ -1425,5 +1425,5 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-left: -1.3em; /* same as padding-left set on li */
   width: 1.3em; /* same as padding-left set on li */
   color: var(--secondary-color);
-  /* margin:5px; */
+  margin-right:5px;
 }
