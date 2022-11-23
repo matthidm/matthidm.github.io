@@ -1424,11 +1424,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-right:5px;
 }
 
-.footer-links {
-  list-style: none;
-  list-style-position: outside;
-  padding: 20px;
-}
-.footer-links li {
-  padding-bottom: 20px;
+.footer-link{
+  margin-bottom: 20px;
 }
