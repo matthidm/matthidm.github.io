@@ -1432,14 +1432,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   visibility: hidden;
   position: absolute;
   z-index: 1;
-  width: 100px;
+  /* width: 100px; */
   color: white;
   font-size: 12px;
-  background-color: var(--secondary-color);
+  background-color: var(--primary-color);
   border-radius: 10px;
   padding: 10px 15px 10px 15px;
   top: -40px;
-  left: -20%;
+  left: -30%;
 }
 .hover-text:hover .tooltip-text {
   visibility: visible;
