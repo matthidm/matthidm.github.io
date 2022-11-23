@@ -1377,7 +1377,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #888;
 }
 
-#footer .footer-links a {
+/* #footer .footer-links a {
   color: #666;
   padding-left: 15px;
 }
@@ -1388,7 +1388,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-links a:hover {
   color: var(--secondary-color);
-}
+} */
 
 .intro-banner {
   text-align: center; 
@@ -1422,4 +1422,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 1.3em; /* same as padding-left set on li */
   color: var(--secondary-color);
   margin-right:5px;
+}
+
+.footer-links {
+  list-style: none;
+  list-style-position: outside;
+  padding: 20px;
+}
+.footer-links li {
+  padding-bottom: 20px;
 }
