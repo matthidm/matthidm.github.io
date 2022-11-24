@@ -37,7 +37,7 @@
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #fff;
+  /* border: 2px solid #fff; */
   color: #fff;
   background: var(--primary-color);
 }
@@ -739,8 +739,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 60px;
   height: 3px;
-  background: var(--secondary-color);
-  background: linear-gradient(0deg, var(--secondary-color) 0%, #55fabe 100%);
+  background: linear-gradient(45deg, var(--primary-color) 0%, var(--secondary-color) 100%);
   margin: 0 auto;
   margin-bottom: 20px;
 }
@@ -1120,9 +1119,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 2px solid var(--secondary-color);
 }
 
-#pricing .featured .get-started-btn {
+/* #pricing .featured .get-started-btn {
   background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
-}
+}*/
 
 /* Frequently Asked Questions Section
 --------------------------------*/
@@ -1411,7 +1410,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 20px;
 }
 .checklist li {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 .checklist li:before {
@@ -1452,4 +1451,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   /* font-family: Avenir; */
   text-align: center;
   border-bottom: 1px dotted black;
+}
+
+@media (max-height: 680px) {
+  .hide-sm{
+    display: none;
+  }
 }
