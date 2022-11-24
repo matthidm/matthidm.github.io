@@ -929,7 +929,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .badge-img {
   max-width: 100%;
-  max-height: 40vh;
+  max-height: 35vh;
 }
 
 .badge-wrapper{
@@ -1253,7 +1253,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #contact {
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
-  padding: 60px 0;
+  padding: 60px 0 0 0;
 }
 
 #contact .contact-about h3 {
