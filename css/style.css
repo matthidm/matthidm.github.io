@@ -938,13 +938,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
 }
 
-.badge-left{
+.img-left{
   float: left;
   padding-right: 30px;
 
 }
 
-.badge-right{
+.img-right{
   float: right;
   padding-left: 30px;
 }
@@ -1468,4 +1468,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   .hide-sm{
     display: none;
   }
+}
+
+.price-card{
+padding: 0 0 30px 20px;
 }
