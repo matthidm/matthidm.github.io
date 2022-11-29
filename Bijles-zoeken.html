@@ -227,11 +227,11 @@
     </div>
 
     <div class="features-row">
-      <div class="container">
+      <div class="container flex-container">
         <div class="img-wrapper" style="float:left" data-aos="fade-right">
           <img class="feature-img" src="img/solutio/badge-handshake.svg" alt="">
         </div>
-        
+      <div>
         <h2  data-aos="fade-left">Kwaliteitsvolle bijlessen</h2>
         <p  data-aos="fade-left">
           Op het Solutio platform word je gekoppeld aan een persoonlijke tutor die deel uitmaakt van een Tribe. 
@@ -242,8 +242,12 @@
 
         <p  data-aos="fade-left">
           Net als in de meeste bijlesbureaus zal het merendeel van de lessen gegeven worden door studenten uit het hoger onderwijs. 
-          Tutors die zelf nog studeren, staan dicht bij de leerlingen die ze begeleiden, zowel qua leeftijd, denk- en werkwijze. 
-          Hierdoor ontstaat er gemakkelijk een vertrouwensband tussen de tutee en de tutor. 
+          Tutors die zelf nog studeren, staan dicht bij de 
+          <span class="hover-text">
+            Tutees
+            <span class="tooltip-text">Leerlingen</span>
+          </span> die ze begeleiden, zowel qua leeftijd, denk- en werkwijze. 
+          Hierdoor ontstaat er gemakkelijk een vertrouwensband tussen de Tutee en de Tutor. 
           Daarnaast zijn deze tutors echte deskundige in hun vak. 
           Ze zijn dan misschien nog niet afgestudeerd, maar ze zijn wel dagelijks bezig met zowel de inhoud als de methodiek toe te passen. 
         </p> 
@@ -253,6 +257,9 @@
           Deze mensen zetten zich dan professioneel, als (bij)beroep in voor het geven van bijlessen. 
           In tegenstelling tot studenten, betalen deze tutors wel belastingen, wat maakt dat hun uurloon vaak hoger ligt.
         </p>
+      </div>
+
+        
       </div>
     </div>
   </section>
@@ -395,50 +402,66 @@
     </section>
 
 
-  <section id="contact">
-    <div class="container">
-      <div class="row" data-aos="fade-up">
-
-        <div class="col-md-6 col-sm-3">
-          <div class="contact-about">
-            <h3>Solutio</h3>
-            <p>Ondernemers van morgen stimuleren om persoonlijke en betaalbare bijles aan te bieden.</br><br>
-              Heb je feedback over het concept of de site? Dat horen we natuurlijk graag! 
-              Je kan ons via onderstaande kanalen bereiken voor al je vragen, problemen of feedback.</p>
-            <div class="social-links">
-              <!-- <a href="#" class="twitter"><i class="fa fa-twitter"></i></a> -->
-              <a href="https://www.facebook.com/solutio.vlaanderen" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="https://api.whatsapp.com/send?phone=+32497852938&text=Hey, Ik heb heb een vraag over Solutio." class="ion-social-whatsapp-outline"></a>
-              <a href="mailto:info@solutio.app" class="ion-android-mail"></a>
-              <a href="http://www.linkedin.com/company/solutiovlaanderen" class="linkedin"><i class="fa fa-linkedin"></i></a>
-              <a href="https://forms.office.com/r/8aL7tBKBUx" class="linkedin"><i class="fa fa-file"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-sm-9">
-          <div class="row info">  
-            <div class="col-md-6 col-sm-12">
-              <div>
-                <i class="fa fa-location-arrow"></i>
-                <p>Speelberg 48,<br> 3090 Overijse <br> België</p>
+    <section id="contact">
+      <div class="container">
+        
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-8 col-sm-12">
+            <div class="contact-about">
+              <h3>Solutio</h3>
+              <p>Ondernemers van morgen stimuleren om persoonlijke en betaalbare bijles aan te bieden.</br><br>
+                Heb je feedback over het concept of de site? Dat horen we natuurlijk graag! 
+                Je kan ons via onderstaande kanalen bereiken voor al je vragen, problemen of feedback.</p>
+              <div class="social-links">
+                <!-- <a href="#" class="twitter"><i class="fa fa-twitter"></i></a> -->
+                <a href="https://www.facebook.com/solutio.vlaanderen" class="facebook"><i class="fa fa-facebook"></i></a>
+                <a href="https://api.whatsapp.com/send?phone=+32497852938&text=Hey, Ik heb heb een vraag over Solutio." class="ion-social-whatsapp-outline"></a>
+                <a href="mailto:info@solutio.app" class="ion-android-mail"></a>
+                <a href="http://www.linkedin.com/company/solutiovlaanderen" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="https://forms.office.com/r/8aL7tBKBUx" class="linkedin"><i class="fa fa-file"></i></a>
               </div>
             </div>
-            <div class="col-md-6 col-sm-12">
+          </div>
+          
+          <div class="col-md-4 col-sm-12">
+            <div style="font-weight: bold; margin: 10px 0;">
+              Nuttige links
+            </div>
+            <div class="footer-link">
+              <a href="https://help.solutio.app">Hulppagina's voor ouders</a>
+            </div>
+            <div class="footer-link">
+              <a href="https://help.solutio.app/Leerkracht">Hulppagina's voor Tutors</a>
+            </div>
+            <div class="footer-link">
+              <a href="https://help.solutio.app/Tribe">Hulppagina's voor Tribeleads</a>
+            </div>    
+          </div>
+        </div>
+        <!-- <div class="col-md-4 col-sm-12"> -->
+          <div class="row info" data-aos="fade-up" style="margin-top:20px">  
+            <div class="col-md-3 col-sm-6 col-xs-12">
+              <!-- <div> -->
+                <i class="fa fa-location-arrow"></i>
+                <p>Speelberg 48,<br> 3090 Overijse <br> België</p>
+              <!-- </div> -->
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
               <div>
                 <i class="fa fa-building"></i>
                 <p>Ondernemingsnummer<br> 0792.509.004<br> RPR Leuven</p>
               </div>
             </div>
             
-          </div>
-          <div class="row info">
-            <div class="col-md-6 col-sm-12">
+          <!-- </div> -->
+          <!-- <div class="row info"> -->
+            <div class="col-md-3 col-sm-6">
               <a href="tel:+32497852938">
                 <i class="fa fa-phone"></i>
                 <p>+32 497 85 29 38</p>
               </a>
             </div>
-            <div class="col-md-6 col-sm-12">
+            <div class="col-md-3 col-sm-6">
               <a href="mailto:info@solutio.app">
                 <i class="fa fa-envelope"></i>
                 <p>info@solutio.app</p>
@@ -448,7 +471,6 @@
           </div>
         </div>
       </div>
-    </div>
   </section>
 
   </main>

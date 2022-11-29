@@ -1480,3 +1480,8 @@ body.mobile-nav-active #mobile-nav-toggle {
     text-align: center;
     }
 }
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+}
