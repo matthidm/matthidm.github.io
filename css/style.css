@@ -936,6 +936,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 100%; 
   padding-bottom: 30px;
   text-align: center;
+  max-width: 40%;
 }
 
 .img-left{
