@@ -1,6 +1,7 @@
 :root {
   --primary-color: #2bc384;
   --secondary-color: #2cadcd;
+  --tertiary: #2CB8A9;
 }
 
 .container {
@@ -1083,7 +1084,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #pricing h4 {
   font-size: 46px;
-  color: var(--secondary-color);
+  color: var(--tertiary);
   font-weight: 300;
 }
 
@@ -1110,7 +1111,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #pricing ul i {
-  color: var(--secondary-color);
+  color: var(--tertiary);
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1431,7 +1432,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   /* display: inline-block; */
   margin-left: -1.3em; /* same as padding-left set on li */
   width: 1.3em; /* same as padding-left set on li */
-  color: var(--secondary-color);
+  color: var(--tertiary);
   margin-right:5px;
 }
 
@@ -1446,7 +1447,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   /* width: 100px; */
   color: white;
   font-size: 12px;
-  background-color: var(--primary-color);
+  background-color: var(--tertiary);
   border-radius: 10px;
   padding: 10px 15px 10px 15px;
   top: -40px;
