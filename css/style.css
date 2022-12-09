@@ -848,7 +848,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #features .icon i:before {
   background: var(--secondary-color);
-  background: linear-gradient(45deg, var(--secondary-color) 0%, #55fabe 100%);
+  background: var(--tertiary-color);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -895,7 +895,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #advanced-features i:before {
   background: var(--secondary-color);
-  background: linear-gradient(45deg, var(--secondary-color) 0%, #55fabe 100%);
+  background: var(--tertiary-color);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -937,7 +937,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 100%; 
   padding-bottom: 30px;
   text-align: center;
-  max-width: 40%;
+  /* max-width: 40%; */
 }
 
 .img-left{
@@ -959,6 +959,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   .badge-img {
     max-width: 50%;
     margin: 0 25% 0 25%;
+  }
+
+  .img-left .img-right{
+    float: center;
+    padding-left: 0px;
+    padding-right: 0px;
   }
 }
 
@@ -997,7 +1003,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #more-features .icon i:before {
   background: var(--secondary-color);
-  background: linear-gradient(45deg, var(--secondary-color) 0%, #55fabe 100%);
+  background: var(--tertiary-color);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -1069,7 +1075,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #pricing .box {
-  padding: 40px;
+  padding: 40px 15%;
   margin-bottom: 30px;
   box-shadow: 0px 0px 30px rgba(73, 78, 92, 0.15);
   background: #fff;
