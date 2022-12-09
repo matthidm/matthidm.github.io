@@ -1,7 +1,7 @@
 :root {
   --primary-color: #2bc384;
   --secondary-color: #2cadcd;
-  --tertiary: #2CB8A9;
+  --tertiary-color: #2CB8A9;
 }
 
 .container {
@@ -96,7 +96,7 @@
 
 
 .card-intro .a{
-  color: var(--secondary-color);
+  color: var(--tertiary-color);
 }
 
 .card-banner {
@@ -227,7 +227,7 @@ body {
 }
 
 a {
-  color: var(--secondary-color);
+  color: var(--tertiary-color);
   transition: 0.5s;
 }
 
@@ -1084,7 +1084,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #pricing h4 {
   font-size: 46px;
-  color: var(--tertiary);
+  color: var(--tertiary-color);
   font-weight: 300;
 }
 
@@ -1111,7 +1111,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #pricing ul i {
-  color: var(--tertiary);
+  color: var(--tertiary-color);
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1267,7 +1267,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 300;
   /* letter-spacing: 2px; */
   /* text-transform: uppercase; */
-  color: var(--secondary-color);
+  color: var(--tertiary-color);
 }
 
 #contact .contact-about p {
@@ -1285,7 +1285,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 18px;
   display: inline-block;
   background: #fff;
-  color: var(--secondary-color);
+  color: var(--tertiary-color);
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -1308,7 +1308,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: var(--secondary-color);
+  color: var(--tertiary-color);
   float: left;
   line-height: 1;
 }
@@ -1432,7 +1432,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   /* display: inline-block; */
   margin-left: -1.3em; /* same as padding-left set on li */
   width: 1.3em; /* same as padding-left set on li */
-  color: var(--tertiary);
+  color: var(--tertiary-color);
   margin-right:5px;
 }
 
@@ -1447,7 +1447,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   /* width: 100px; */
   color: white;
   font-size: 12px;
-  background-color: var(--tertiary);
+  background-color: var(--tertiary-color);
   border-radius: 10px;
   padding: 10px 15px 10px 15px;
   top: -40px;
