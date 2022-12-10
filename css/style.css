@@ -142,6 +142,7 @@
   margin-left: 20px;
 }
 
+
 @media (max-height: 400px) {
   .btn-into {
     display: none;
@@ -966,6 +967,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-left: 0px;
     padding-right: 0px;
   }
+  
 }
 
 #advanced-features h3 {
@@ -1440,6 +1442,23 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 1.3em; /* same as padding-left set on li */
   color: var(--tertiary-color);
   margin-right:5px;
+}
+
+.hexlist {
+  list-style: none;
+  list-style-position: outside;
+  text-align: left;
+  text-indent: -20px;
+  margin-left: 20px;
+}
+.hexlist li {
+  padding-bottom: 10px;
+}
+
+.hexlist li:before {
+  content:url("../img/solutio/hexagon.svg");
+  margin-right:5px;
+  margin-top: 2px;
 }
 
 .footer-link{
