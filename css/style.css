@@ -371,7 +371,7 @@ h2 {
 --------------------------------------------------------------*/
 #intro {
   width: 100%;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
   position: relative;
   padding-top: 15vh;
@@ -1523,4 +1523,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 .badge-icon{
   height: 55px;
   margin-bottom: 20px;
+}
+
+.banner-with-cards {
+  min-height:90vh;
+}
+
+.banner-without-cards {
+  min-height: 50vh;
 }
