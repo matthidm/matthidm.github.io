@@ -935,26 +935,38 @@ body.mobile-nav-active #mobile-nav-toggle {
   max-height: 35vh;
 }
 
-.badge-wrapper{
+.badge-wrapper {
   height: 100%; 
   padding-bottom: 30px;
   text-align: center;
   max-width: 40%;
 }
 
-.img-left{
+.tribes-logo-wrapper {
+  height: 100%; 
+  padding-bottom: 30px;
+  text-align: center;
+  max-width: 40%;
+  /* max-height: 40px; */
+}
+
+.img-left {
   float: left;
   padding-right: 30px;
 
 }
 
-.img-right{
+.img-right {
   float: right;
   padding-left: 30px;
 }
 
 @media (max-width: 1000px) {
   .badge-wrapper {
+    width: 100%;
+    max-width: 100%;
+  }
+  .tribes-logo-wrapper {
     width: 100%;
     max-width: 100%;
   }
